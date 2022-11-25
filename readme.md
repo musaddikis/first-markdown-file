@@ -47,8 +47,8 @@ __Strong__<br>
     - Ram
 
 ## Task List
-- [x]Task1
-- [x]Task2
+- [x] Task1   
+- [x] Task2    
 
 ## Automatic Link
 https://youtube.com
@@ -69,7 +69,7 @@ https://youtube.com
 ## Emoji
 ❤️
 ## Image
-<img src="img/musaddik.jpg"/>
+<img width="400px" src="img/musaddik.jpg"/>
 
 ## Table
 | Name | Class |  
